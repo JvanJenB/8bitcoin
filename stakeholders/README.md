@@ -4,7 +4,7 @@
 ## Binance
 ## Coinbase
 ## Bitonic
-# Tools
+# Trading tools Tools
 ## 3Commas
 ## Bots.nl
 # Influencers 1
@@ -22,3 +22,5 @@ Trading
 Trading
 ## Cryptofocus
 Automated tradeing
+# Crypto Data
+## Lunarcrush
