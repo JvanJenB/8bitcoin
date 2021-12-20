@@ -1,10 +1,15 @@
 # Cryptocurrency
 ## Bitcoin
+## Etherum
+## Dogecoin
 
 # Exchanges
 ## Binance
 ## Coinbase
 ## Bitonic
+## Poloniex
+## Kucoin
+## 
 
 # Crypto Data
 ## Coinmarketcap
