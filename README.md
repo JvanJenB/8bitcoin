@@ -10,4 +10,7 @@ We zijn al 10 jaar bezig met crypto, we hadden daar eerder graag wat mee gedaan,
 
 Misschien positioneren we onszelf hierdoor als iets wat we "nog" niet zijn. Fake-it until you make it. 
 
+Crypto voor bedrijven/ particulieren? 
+Defi NFT 
+
 "The man who moves a mountain begins by carrying away small stones." —Confucius.13 jan. 2020
