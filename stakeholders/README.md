@@ -1,8 +1,3 @@
-# Cryptocurrency
-## Bitcoin
-## Etherum
-## Dogecoin
-
 # Exchanges
 ## Binance
 ## Coinbase
@@ -37,8 +32,6 @@ Trading
 Trading
 ## Cryptofocus
 Automated tradeing
-
-
 
 # Research
 ## https://www.tudelft.nl/delft-blockchain-lab
