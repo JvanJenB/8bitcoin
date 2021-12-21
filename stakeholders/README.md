@@ -14,6 +14,7 @@
 # Crypto Data
 ## Coinmarketcap
 ## Lunarcrush
+## https://coin360.com/
 
 # Trading tools Tools
 ## 3Commas
