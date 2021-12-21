@@ -8,4 +8,4 @@ Daarna starten we videomediagroup, met als basis nieuwe video advertentietechnie
 # John Nota
 
 # Bert Klandermans
-Trading & algoritmes 
+Houd zich bezig met automated trading en het ontwikkelen van quantiatieve trading algoritmes 
